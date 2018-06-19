@@ -1,3 +1,4 @@
 print ("Hello world!!")
 
-print(" HONE BADDNA NGHAYYIR KAM CHAGHLE")
+print(" ok")
+print("3am ghayyir")
