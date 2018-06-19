@@ -1,5 +1,6 @@
 print ("Hello world!!")
 
-print(" HONE BADDNA NGHAYYIR KAM CHAGHLE")
 
-print(" zedet hayda el chi " )
+print(" ok")
+print("3am ghayyir")
+
